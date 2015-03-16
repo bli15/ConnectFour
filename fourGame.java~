@@ -1,0 +1,20 @@
+public class fourGame(){
+  
+  public void createGame(){
+    int[][] g = new int[6][7]
+                        
+                        }
+  
+  public void game(){
+  }
+  
+  public void dropPiece(){
+  }
+  
+  public void showBoard(){
+    
+  }
+  
+  
+  }
+  
