@@ -37,7 +37,7 @@ public class fourGame{
     }
   }
   public boolean win(){
-    int inARow = 0;
+    int inARow = 0;//checks horizontal wins
     for (int row = 0; row < 6; row++){  
       for (int col = 0; col < 7; col ++){
         if (g[row][col] == 1){
